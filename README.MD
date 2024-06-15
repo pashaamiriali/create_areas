@@ -1,4 +1,4 @@
-# create areas based on colors on images
+# Create areas based on colors on images
 
 ### to use this code you will first need an image file that has parts of it highlighted or it's pre-colored in some ares. then you will need to find out what is that specific color (I use colorzilla). convert it into RGB and then put it in lower and upper colors. 
 
